@@ -5,3 +5,4 @@ from b1 local
 
 add from local
 add from remote server
+add from remote server2
